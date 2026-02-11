@@ -10,3 +10,6 @@ Fun fact: I also love design and game development in my spare time!⚡<br>
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/priya-harry/) and follow my blog to go on this journey with me :)
 
 🚀 I can't wait to learn and work with you!💬
+
+**Bonus:** My dev card, as of 2/11/2026! <br>
+<a href="https://app.daily.dev/mistystars"><img src="https://api.daily.dev/devcards/v2/7P5ZCcn6Xsr8NTIbjkXMU.png?r=bzd" width="356" alt="misty_stars's Dev Card"/></a>
