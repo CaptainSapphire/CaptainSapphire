@@ -1,7 +1,7 @@
 ## Hi there 👋
 Hello everyone!
 My Name is **Priya Harry.** *(she/her)* <br><br>
-I am a incoming college freshman for Fall 2025. I am majoring in Data Science, and planning to transfer from Moorpark College to a UC/CSU. I graduated from Oak Park High School with Magna Cum Lade with Highest Honors. 🎓 <br><br>
+I am a  college freshman, graduating Spring of 2029. I am majoring in Data Science, and planning to transfer from Moorpark College to a UC/CSU. I graduated from Oak Park High School with Magna Cum Lade with Highest Honors. 🎓 <br><br>
 I have a drive for learning and a passion for creativity. I enjoy website design with HTML/CSS/Javascript, data analysis in R, game development in C#, and more in Python. I'm always looking to add to this list, 
 though!!😄📖<br><br>
 🔭🌱 I’m currently working on making my way into the tech industry through projects, certifications, classes, courses, and more! <br><br>
